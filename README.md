@@ -42,7 +42,7 @@ Tensorflow
 C++
 Computer Vision
 ```
-![Watch the video](https://github.com/ecemisildar/custom_env_ddpg/blob/main/media/ddpg.gif)
+![Watch the video](https://github.com/ecemisildar/ecemisildar.github.io/blob/main/ddpg.gif)
 
 #### Path Planning with Rosbot
 This project aims to integrate the ROSPlan package, which uses the PDDL language, to define a plan for a robot with a camera mounted on it to detect four markers autonomously in an environment with obstacles (e.g.: walls). The world environment and the robot model are already given. Simulation and real-world tests are done successfully by the group members.
