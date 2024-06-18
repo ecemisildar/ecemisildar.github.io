@@ -79,7 +79,7 @@ ROS2
 #### ITU Rover Team
 I participated in this project team during my bachelor's. This team aims to develop a Mars Rover with autonomous driving, robotic arm and sample collection parts for the University Rover Challenge and European Rover Challenge. 
 
-![Watch the video]([https://youtu.be/Ht_gPUQ4iJo?si=7Hsp_zCZHygmAxCB](https://www.youtube.com/embed/Ht_gPUQ4iJo?si=7Hsp_zCZHygmAxCB))
+[![Watch the video](https://github.com/ecemisildar/ecemisildar.github.io/blob/main/media/rover.png)](https://www.youtube.com/embed/Ht_gPUQ4iJo?si=7Hsp_zCZHygmAxCB)
 
 #### Pick and Place Robot 
 This project aims to pick and move all the silver tokens and release them next to the golden token in pygame environment. The robot also understands that the task is completed when all the tokens are in pairs. The code is written in python. The initial point of the robot is not important, and this code can be applied to all initial points.
