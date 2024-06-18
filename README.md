@@ -42,6 +42,7 @@ Tensorflow
 C++
 Computer Vision
 ```
+![Demo Video](https://github.com/ecemisildar/custom_env_ddpg/blob/main/media/ddpg.gif)
 
 #### Path Planning with Rosbot
 This project aims to integrate the ROSPlan package, which uses the PDDL language, to define a plan for a robot with a camera mounted on it to detect four markers autonomously in an environment with obstacles (e.g.: walls). The world environment and the robot model are already given. Simulation and real-world tests are done successfully by the group members.
@@ -56,6 +57,8 @@ Gazebo
 C++
 Computer Vision
 ```
+[![Watch the video](https://github.com/Carmine00/assignment2_EXP_rep/blob/main/resources/img.png)](https://youtu.be/EKx9IrjO614)
+
 
 #### Vision Guided Marker Reach Robot
 
@@ -64,8 +67,14 @@ This project aims to use a robot with a camera mounted on it to detect the four 
 Python
 ROS2
 ```
+[![Watch the video](https://github.com/isacg5/assignment1_EXP_rep/blob/main/resources/sim_robot.png)](https://youtu.be/M5vqtRnRwP8)
+
 
 
 #### Pick and Place Robot 
 This project aims to pick and move all the silver tokens and release them next to the golden token in pygame environment. The robot also understands that the task is completed when all the tokens are in pairs. The code is written in python. The initial point of the robot is not important, and this code can be applied to all initial points.
+
+<div align="center">
+<video src="https://user-images.githubusercontent.com/51851879/200179212-cfd08772-8069-420a-a3cc-52b33b89f074.mp4" width=400/>
+
 
