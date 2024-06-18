@@ -77,4 +77,9 @@ This project aims to pick and move all the silver tokens and release them next t
 <div align="center">
 <video src="https://user-images.githubusercontent.com/51851879/200179212-cfd08772-8069-420a-a3cc-52b33b89f074.mp4" width=400/>
 
+#### ITU Rover Team
+I participated in this project team during my bachelor's. This team aims to develop a Mars Rover with autonomous driving, robotic arm and sample collection parts for the University Rover Challenge and European Rover Challenge. 
+
+![Watch the video]([https://youtu.be/M5vqtRnRwP8](https://www.youtube.com/watch?v=Ht_gPUQ4iJo))
+
 
