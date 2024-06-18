@@ -25,7 +25,14 @@ September 2017 - July 2022
 Munich, Germany  
 Exchange Semester in Mechanical Engineering  
 April 2021 - October 2021  
-* Courses: Robot Motion Planning, Machine Learning in Robotics, Computer Controlled Systems, Cyber-physical Systems 
+* Courses: Robot Motion Planning, Machine Learning in Robotics, Computer Controlled Systems, Cyber-physical Systems
+
+### ~ Publication ~
+Towards capsule endoscope locomotion in large volumes: Peker, F., Beşer, M., Işıldar, E.,
+Terzioğlu, Y., Erten, A., Kumbasar, T., & Ferhanoğlu, O. (2023). Robotica, 1-22.
+doi:10.1017/S026357472300142X
+
+[Towards capsule endoscope locomotion in large volumes](https://www.cambridge.org/core/journals/robotica/article/towards-capsule-endoscope-locomotion-in-large-volumes-design-fuzzy-modeling-and-testing/70B23FD483B144FBB9C1D3BB2B11D71C)
 
 ### ~ Projects ~
 
