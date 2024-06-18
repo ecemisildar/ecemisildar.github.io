@@ -1,33 +1,33 @@
 # Robotics Engineer
 
-### Education
+### ~ Education ~
 #### University of Paderborn
-Paderborn, Germany  
-Exchange Semester for Master Thesis  
-April 2024 - September 2024  
-Thesis: Multi-agent Drone Simulation Using Deep Reinforcement Learning  
+Paderborn, Germany 
+April 2024 - September 2024 
+* Exchange Semester for Master Thesis  
+* Thesis: Multi-agent Drone Simulation Using Deep Reinforcement Learning 
 
 #### University of Genoa  
 Genoa, Italy  
-Robotics Engineering Masters Program  
-September 2022 - April 2024  
-Courses: Robot Programming, Machine Learning, Modelling and Control of Manipulators, AI for Robotics
+Robotics Engineering Masters Program 
+September 2022 - April 2024 
+* Courses: Robot Programming, Machine Learning, Modelling and Control of Manipulators, AI for Robotics
 
 #### Istanbul Technical University
 Istanbul, Turkey  
 Control and Automation Engineering, GPA: 3.30/4  
 September 2017 - July 2022  
-Thesis: Autonomous Capsule Endoscopy  
-Relevant Coursework: Programming, Robotics, Control, System Modelling, Intelligent Control  
-Honors: High honor list in 4 semesters
+* Thesis: Autonomous Capsule Endoscopy  
+* Relevant Coursework: Programming, Robotics, Control, System Modelling, Intelligent Control  
+* Honors: High honor list in 4 semesters
 
 #### Technical University of Munich
 Munich, Germany  
 Exchange Semester in Mechanical Engineering  
 April 2021 - October 2021  
-Courses: Robot Motion Planning, Machine Learning in Robotics, Computer Controlled Systems, Cyber-physical Systems 
+* Courses: Robot Motion Planning, Machine Learning in Robotics, Computer Controlled Systems, Cyber-physical Systems 
 
-### Projects 
+### ~ Projects ~
 
 #### Drone Control with Deep Reinforcement Learning
 The drone agent learns how to collect goal points in a custom environment in the Gazebo using the DDPG algorithm and image observation.
