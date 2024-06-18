@@ -2,14 +2,14 @@
 
 ### ~ Education ~
 #### University of Paderborn
-Paderborn, Germany 
+Paderborn, Germany   
 April 2024 - September 2024 
 * Exchange Semester for Master Thesis  
 * Thesis: Multi-agent Drone Simulation Using Deep Reinforcement Learning 
 
 #### University of Genoa  
 Genoa, Italy  
-Robotics Engineering Masters Program 
+Robotics Engineering Masters Program   
 September 2022 - April 2024 
 * Courses: Robot Programming, Machine Learning, Modelling and Control of Manipulators, AI for Robotics
 
@@ -23,8 +23,8 @@ September 2017 - July 2022
 
 #### Technical University of Munich
 Munich, Germany  
-Exchange Semester in Mechanical Engineering  
 April 2021 - October 2021  
+* Exchange Semester in Mechanical Engineering    
 * Courses: Robot Motion Planning, Machine Learning in Robotics, Computer Controlled Systems, Cyber-physical Systems
 
 ### ~ Publication ~
@@ -64,7 +64,7 @@ Gazebo
 C++
 Computer Vision
 ```
-[![Watch the video](https://github.com/Carmine00/assignment2_EXP_rep/blob/main/resources/img.png)](https://youtu.be/EKx9IrjO614)
+[![Watch the video](https://github.com/ecemisildar/ecemisildar.github.io/blob/main/media/img.png)](https://youtu.be/EKx9IrjO614)
 
 
 #### Vision Guided Marker Reach Robot
